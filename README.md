@@ -8,3 +8,6 @@ The Home page should have a picture of yourself and a short bio. Include an alt 
 The Home page should have a level 1 header tag with an appropriate title.
 The About page should contain a paragraph tag with information about why you are taking this class.
 The About page should contain a list, with no text decoration listing what you hope to achieve from this class (3 items).
+
+
+![IMG_3625](https://github.com/user-attachments/assets/7f1c6075-2a13-4ea5-b45c-12142d8d2777)
